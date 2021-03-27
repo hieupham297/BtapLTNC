@@ -1,0 +1,3 @@
+Bai 2: loi khi chia cho 0, thieu truong hop
+Bai 3: loi lap vo han vi ham tra ve H(N)
+Bai 4: loi tran bo nho vi so N qua to 
